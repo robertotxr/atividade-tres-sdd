@@ -1,0 +1,5 @@
+force /a 11111111 0ns, 00000000 3000 ns
+force /b 00000000 0ns, 11111111 5500 ns
+force /clk 0 0ns, 1 5 ns -r 25ns
+force /iniciar 1 0 ns, 0 350 ns, 1 3500 ns, 0 4500 ns, 1 6500 ns, 0 10000 ns
+force /reset 0 0ns

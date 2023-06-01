@@ -1,0 +1,14 @@
+--------------- dados do aluno ---------------
+nome: Joao Victor Cabral, Pedro Alfeu Wolff Lemos
+matricula: 22204113, 22200373
+--------------- dados do fpga ----------------
+familia: Cyclone IV GX
+dispositivo: EP4CGX15BF14C6
+-------- dados de utilizacao da placa --------
+total combinational functions: 78 / 14,400 ( < 1 % )
+dedicates logic registers: 59 / 14,400 ( < 1 % )
+total pins: 40 / 81 ( 49 % )
+-------------- dados de atraso ---------------
+input port: result[*]
+output port: clk
+atraso (ns): 6.820
